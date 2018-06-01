@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/HouseLady.unity
+- path: Assets/Scenes/VR Kanojo.unity
   isLoaded: 1
   isActive: 1
